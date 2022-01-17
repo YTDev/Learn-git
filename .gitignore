@@ -4,6 +4,10 @@ node_modules/1
 
 #ignore the docs folder in branch bob
 
+<<<<<<< HEAD
 docs/
 
 ok
+=======
+docs/1
+>>>>>>> bob
